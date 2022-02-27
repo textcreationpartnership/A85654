@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The printer's advertisement Whereas there is prefixed unto a late pamphlet, entituled, Gospel order revived, printed at New York, an advertisement, ...</title>
+            <author>Green, Bartholomew, 1667-1732.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85654</idno>
+            <idno type="STC">Wing G1810A</idno>
+            <idno type="STC">ESTC W42986</idno>
+            <idno type="EEBO-CITATION">99900111</idno>
+            <idno type="PROQUEST">99900111</idno>
+            <idno type="VID">137549</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85654)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137549)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2516:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The printer's advertisement Whereas there is prefixed unto a late pamphlet, entituled, Gospel order revived, printed at New York, an advertisement, ...</title>
+                  <author>Green, Bartholomew, 1667-1732.</author>
+                  <author>Allen, John, 1660?-1727? aut</author>
+                  <author>Mico, John. aut</author>
+                  <author>Tuthill, Zechariah. aut</author>
+                  <author>Brattle, Thomas, 1658-1713. aut</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Allen,</publisher>
+                  <pubPlace>[Boston :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at foot of p. 1: Boston, December 21st. 1700 Bartholomew Green.</note>
+                  <note>The endorsement, p. 2, is dated: Boston, December 24th. 1700. Ascribed to Cotton Mather by Holmes.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Printing --  Early works to 1800.</term>
+               <term>Law --  United States --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="publishers_advertisement">
+            <pb n="1" facs="tcp:137549:1" rendition="simple:additions"/>
+            <head>THE PRINTERS Advertiſement.</head>
+            <p>WHEREAS there is Prefixed unto a late Pamphlet, Entituled, <hi>Goſpel Order Revived,</hi> Printed at <hi>New-York,</hi> An Advertiſement, which runs in theſe words, viz <hi>The Reader is deſired to take Notice, that the Preſs in</hi> Boſton <hi>is ſo much under the aw of the Reverend Au<g ref="char:EOLhyphen"/>thor, whom we anſwer, and his Friends, that we could not obtain of the Prin<g ref="char:EOLhyphen"/>ter there to Print the following Sheets, which is the only true Reaſon why we have ſent the Copy ſo far for its Impreſſion, and where it is printed with ſome Difficulty.</hi> I count my ſelf bound in Juſtice unto all Perſons aſpers'd by that Advertiſement, to Declare and Publiſh to the World the Truth of the matter, which briefly is this: Certain Perſons bringing to the Preſs, the <hi>Pamphlet</hi> above mentioned; after ſome Diſcourſe concerning the number of Copies and Price, I Conſented to its being Pub<g ref="char:EOLhyphen"/>liſhed: But when they inſiſted upon doing it with Secreſy. I conſider<g ref="char:EOLhyphen"/>ed that for ought I knew, Good men in the Country might be Offend<g ref="char:EOLhyphen"/>ed at it: Therefore I only propoſed this Reaſonable thing, That before I proceeded, I might mention to His Honour the Lieutenant Governour, what was offered to the Preſs; This they denied me: But when they an<g ref="char:EOLhyphen"/>grily went away, ſome of my laſt words to them were, <hi>That I did not re<g ref="char:EOLhyphen"/>fuſe to Print it.</hi> And neither the Reverend Praeſident of the Colledge, nor any of his Friends, ever ſpoke one word unto me to Diſcourage my Printing of it.</p>
+            <closer>
+               <dateline>
+                  <hi>Boſton,</hi> 
+                  <date>
+                     <hi>December</hi> 21ſt. 1700</date>
+               </dateline>
+               <signed>Bartholomew Green.</signed>
+            </closer>
+         </div>
+         <div type="commentary">
+            <pb n="2" facs="tcp:137549:2" rendition="simple:additions"/>
+            <p>THE PRINTER having by this <hi>Advertiſement</hi> Vindicated thoſe that were unworthily reflected on in the <hi>Advertiſement</hi> Prefixed to the above men ioned <hi>Libellous Pampblet,</hi> (which no man is as yet ſo Hardy as to own himſelf to be the Author of) the world may Judge of other things contained therein by this. It will in due Time appear, that beſides the <hi>Profane Scoffs and Scurrilities,</hi> (not only on particular perſons, who never deſerved ſuch Treatments; but alſo on the Holy Churches of the Lord, and on the moſt Sacred Actions performed in them, which is the Spirit of their whole Pamphlet; as if they had de<g ref="char:EOLhyphen"/>ſigned to have that Scripture fulfilled upon them, 2 Tim. 3. 9 <hi>They ſhall proceed no further, for their folly ſhall be manifeſt to all men.</hi> Be<g ref="char:EOLunhyphen"/>ſides all this, (it will appear) that there are other more Impudent Falſhoods than that in their <hi>Advertiſement,</hi> which the <hi>Printer</hi> in <hi>Boſton,</hi> has (as become an Honeſt and Juſt man) made a diſcovery of.</p>
+            <closer>
+               <dateline>
+                  <hi>Dated</hi> in <hi>Boſton,</hi> 
+                  <date>
+                     <hi>December</hi> 24th. 1700.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="deposition">
+            <pb n="3" facs="tcp:137549:3"/>
+            <head>THE Depoſitions OF THOMAS BRATTLE, Gent. AND ZECHARIAH TUTHILL, Merchant.</head>
+            <p>THESE Deponents ſay, That on <hi>Saturday,</hi> the <hi>13th.</hi> of <hi>July</hi> laſt, they went to <hi>Bartholomew Green's</hi> to Treat with him about Printing an Anſwer to Old Mr. <hi>Mathers</hi> Book, called, <hi>The Order of the Goſpel:</hi> Who, after he had taken ſaid Anſwer into his hands, and ſeen both what it was, and how much there was of it, told them he reckoned Three Sheets of Paper might contain it, and ſeven Ream of Paper Print about a Thouſand of them; for which they agreed with him for <hi>Twen<g ref="char:EOLhyphen"/>ty Shillings</hi> the Sheet. He made not any Objection to them a<g ref="char:EOLhyphen"/>gainſt Printing ſaid Anſwer; only ſaid, he could not go about it, till he had Printed off the Laws, which would not be till the <hi>Tueſday</hi> following. They further ſay, There was never any other perſon that brought ſaid Anſwer to the Preſs, but the Deponents; and they never brought it, but at this time. But neither did the ſaid <hi>Green</hi> propoſe to them the mentioning to his Honour the Lieutenant Gover<g ref="char:EOLhyphen"/>nour, what was offered to the Preſs, nor did they deny it him; nor did they go away in any Anger from him, nor did they hear him ſay any ſuch words: <hi>(That he did not refuſe to Print it,)</hi> all which the ſaid
+<pb n="4" facs="tcp:137549:4"/>
+               <hi>Green</hi> in his late Advertiſement of the <hi>21th</hi> Inſtant moſt unfairly Declares, That certain perſons bringing to the Preſs the Anſwer above mentioned, did.</p>
+            <closer>
+               <dateline>
+                  <hi>Boston,</hi> 
+                  <date>
+                     <hi>December</hi> 27. 1700.</date>
+               </dateline>
+               <signed>Tho. Brattle.</signed>
+               <signed>Zech. Tuthill.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>The Subſcribers offering to make Oath to what is above written, the ſame being ſeveral times diſtinct<g ref="char:EOLhyphen"/>by read over in the hearing of</hi> Bartholomew Green, <hi>he owned the ſame to be what paſſed between him and them.</hi>
+               </p>
+               <closer>
+                  <signed>Coram <hi>Iſaac Addington, Nathaniel Byfield.</hi> Juſtices of the Peace.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="deposition">
+            <head>THE Depoſitions OF John Mico, &amp; Zechariah Tuthill, <hi>Merchants.</hi>
+            </head>
+            <p>THESE Deponents ſay, That on or about the <hi>16th</hi> of <hi>July</hi> laſt, they went to <hi>Bartholomew Green</hi>'s to ſee if he were ready to Print the Anſwer to Old Mr <hi>Mather's Goſpel Order,</hi> but he was then unwilling to Print it, becauſe (as he ſaid) it would diſpleaſe ſome of his Friends; and to the beſt of their remembrance, he mentioned particularly the <hi>Mathers.</hi> They told him it was ſtrange he would Print <hi>any thing</hi> for the ſaid <hi>Mathers,</hi> and particularly the ſaid <hi>Goſpel Order,</hi> and nothing in Anſwer to it or them, by which means the World might think thoſe Principles to be approved by all, which were abhorted by ſundry Worthy Miniſters in the Land. The unfairneſs of which pra<g ref="char:EOLhyphen"/>ctice they laboured to convince him of, yet he ſtill declined to Print it; but at length ſaid, if they would admit the Lieutenant Governour to be askt, to give his Approbation to it, he would Print it; which they were unwilling to for this reaſon: Becauſe they conceived it a new Me<g ref="char:EOLhyphen"/>thod,
+<pb n="5" facs="tcp:137549:4"/>
+not practiſed heretofore, and which the ſaid <hi>Green</hi> would not have required of them now; but to put off the Printing of this Book which anſwered the <hi>Mathers,</hi> whom he ſeemed loth to diſpleaſe. Theſe De<g ref="char:EOLhyphen"/>ponents hereupon asked ſaid Printer, whether he had his Honours leave to Print the <hi>Goſpel Order?</hi> he ſaid, he had not. They then asked him if he would Print this, if Young Mr. <hi>Mather</hi> would be Imprimatur to it? he readily ſaid he would. Then they told him, it was a ſhame ſo Worthy a Miniſter as Mr. <hi>Stoddard</hi> muſt ſend ſo far as <hi>England</hi> to have his Book printed, when young Mr. <hi>Mather</hi> had the Preſs at his pleaſure? To which he replied, he hoped Mr. <hi>Mather</hi> was another gueſs man than Mr. <hi>Stoddard.</hi> At length they told him, if he would not Print it, they would have it Printed elſewhere; but did not hear him ſay thoſe words in his Advertiſement of the 21<hi>ſt</hi> Inſtant, namely, <hi>That he did not refuſe to print it.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Boſton,</hi> 
+                  <date>
+                     <hi>December</hi> 27. 1700.</date>
+               </dateline>
+               <signed>John Mico</signed>
+               <signed>Zech. Tuthill.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Sworn by the two perſons Subſcribing,</hi> Bartho<g ref="char:EOLhyphen"/>lomew Green <hi>being preſent, and excepting a<g ref="char:EOLhyphen"/>gainſt thoſe words in the Evidence;</hi> particularly the Mathers, and that he would Print it, if Young Mr. <hi>Mather</hi> would be Imprimatur to it: <hi>Alſo affirming he ſaid theſe word<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> He did not refuſe to Print it, <hi>and nothing ſurther.</hi>
+               </p>
+               <closer>
+                  <signed>Coram <hi>Iſaac Addington Nathaniel Byfield.</hi> Juſtices of the Peace.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="commentary">
+            <p>MR. <hi>Green</hi> the Printer, being by theſe Depoſitions Convicted of ſundry Miſtakes in his late Advertiſement, <hi>ſo that his Folly and theirs who ſet him on work is manifeſt unto all men;</hi> there is juſt reaſon to ſuſpect the truth of what he ſaith in the Fag-end of his Advertiſement, that <hi>neither the Reverend Praeſident, nor any of his Friends ever ſpoke a word to him to diſcourage his Printing the Anſwer to the Order of the Goſpel.</hi> But whether that be true or falſe, concerns not the Advertiſement pre<g ref="char:EOLhyphen"/>fix'd to ſaid Anſwer, which ſaith nothing <hi>of any ones, ſpeaking</hi> to the Printer, to diſcourage him; but only <hi>that his Preſs was ſo much under the aw of the Reverend Author and his Friends, that we could not obtain of him to
+<pb n="6" facs="tcp:137549:5"/>
+Print it;</hi> Than which nothing can be more evident from theſe Depo<g ref="char:EOLhyphen"/>ſitions, which ſay, <hi>The ſaid Printer after he had poſitively agreed for the Printing ſaid Anſwer, fell off from his Bargain, and declin'd to Print it, be<g ref="char:EOLhyphen"/>cauſe it would diſpleaſe ſome of his Friends, and particularly the</hi> Mathers, who are known by all to have been <hi>his particular Friends and Imployers.</hi> So that the Reverend Author of that <hi>Libellous Scribble,</hi> at the <hi>tai<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of ſaid <hi>Green's</hi> Advertiſement <hi>(to which the Reverend Author was not yet ſo Hardy as to ſet his Name)</hi> had no reaſon to <hi>Reflect</hi> as he did on the Advertiſe<g ref="char:EOLhyphen"/>ment prefix'd to ſaid Anſwer, or to <hi>Boaſt</hi> of the Printer's Vindication, but might be <hi>aſham'd</hi> of both. As for the prophane Scoffs and Scur<g ref="char:EOLhyphen"/>rilities not only on particular perſons, but on the Holy Churches of the Lord, and the moſt Sacred Actions therein performed <hi>(by which are meant O HORRIBLE: his two dear and precious Creatures,</hi> RELATIONS <hi>and the</hi> CHURCH COVENANT;) which that infamous Scribble ſaith, is <hi>the Spirit of the whole Anſwer,</hi> and thoſe other Falſhoods it is threatned ſhall appear therein; they are but <hi>Bruta Fulmin<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> to fright and ſcare the poor deluded, bigotted people withal, which is <hi>the very Spirit and Quinteſſence</hi> of the Reverend Scribler. But all theſe little Artifices and Cavils were plainly foreſeen, and ſo fully provided againſt by the Ingenious Authors of ſaid Anſwer, that there's no need of taking any further notice of them here.</p>
+            <p>I ſhall therefore at preſent ſay no more, but <hi>that the World may Judg</hi> what baſe and injurious treatment that Anſwer muſt expect from its Enraged Adverſaries, by what is contained in that <hi>one little, Canting, Scan<g ref="char:EOLhyphen"/>dalous Libel,</hi> wherein there are far more <hi>profane Scoffs, Scurrilities, and Impudent Falſhoods,</hi> than are in all that GREAT and NOBLE and EXCELLENT ANSWER.</p>
+            <closer>
+               <dateline>
+                  <hi>Boston,</hi> 
+                  <date>
+                     <hi>December</hi> 27. 1700.</date>
+               </dateline>
+               <signed>Tho. Brattle.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Boſton, <hi>Printed by</hi> John Allen. <hi>1700.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
